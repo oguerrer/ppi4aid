@@ -4,7 +4,7 @@
 
 All the scripts to pre-process the data and perform the analysis are contained in the folder `code`. The data is too large to be hoster in this repository, so we provide a zip file that you can download [here](https://www.dropbox.com/scl/fo/4kg6svoyo65qpimozekbl/AOiYdZOlndUrfm1otQ5jUo0?rlkey=0866hyu5mkb4df79bgvcvjkmp&dl=0). 
 First, clone this repository.
-Then, decompress the data zip file and place its content into the data folder of your copy of the repository. This will provide the folder structure to run every script.
+Then, decompress the data zip file and place its content into the `data` folder of your copy of the repository. This will provide the folder structure to run every script.
 
 The scripts are organized numerically to follow a specific excecution order.
 Scripts 00 to 25 are for preparing the data.
