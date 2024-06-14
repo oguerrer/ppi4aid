@@ -15,7 +15,7 @@ While most scripts are in Python, scirpt 22 is in R.
 This script uses a library called [sparsebn](https://github.com/itsrainingdata/sparsebn).
 Unfortunatelly, sparsebn is no longer supported, so you should contact its creator.
 However, this module is not essential to run the model used in the paper, it ony helps to create networks of co-movements between the indicators.
-You can always estimate these networks with alternative approaches and [here is paper](https://doi.org/10.1016/j.im.2020.103342) that points you in the right direction.
+You can always estimate these networks with alternative approaches and [here a is paper](https://doi.org/10.1016/j.im.2020.103342) that points you in the right direction.
 In any case the data file contains the networks that we estimated using sparsebn so you can replicate all the results in the paper.
 
 
